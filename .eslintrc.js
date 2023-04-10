@@ -7,6 +7,7 @@ module.exports = {
   parserOptions: {
     ecmaFeatures: {
       jsx: true,
+      tsx: true,
     },
   },
 };
